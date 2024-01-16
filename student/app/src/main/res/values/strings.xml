@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">StudentAttendance</string>
+    <string name="TITLE">Admin Menu</string>
+    <string name="view">view</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="view_users">View Users</string>
+    <string name="add_user">Add User</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="update_user">Update User</string>
+    <string name="add_class">Add Class</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="admin_icon">Admin Icon</string>
+    <string name="login">Login</string>
+    <string name="View_Class_And_Course">View Class And Course</string>
+    <string name="Mark_Attendance">Mark Attendance</string>
+    <string name="Student_Menu">Student Menu</string>
+    <string name="spinner_year_description">Select Year</string>
+    <string name="spinner_class_description">Select Class</string>
+    <string name="spinner_course_description">Select Course</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="course">Course:</string>
+    <string name="class2">Class:</string>
+    <string name="year">Year:</string>
+    <string name="view_1">View</string>
+    <string name="class1">Class:</string>
+    <string name="scan_qr_code_to_mark_attendance">Scan QR Code to Mark Attendance</string>
+    <string name="class5">Class:</string>
+    <string name="subject">Subject:</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="subject1">Subject</string>
+    <string name="classQR">Class</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="print_qr_code">Print QR Code</string>
+    <string name="generate_qr_code1">Generate QR Code</string>
+    <string name="download_qr_code">Download QR code</string>
+    <string name="add_class_and_subject">Add Class and Subject</string>
+
+</resources>

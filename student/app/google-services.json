@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "893238391222",
+    "firebase_url": "https://gretsa-ddc92-default-rtdb.firebaseio.com",
+    "project_id": "gretsa-ddc92",
+    "storage_bucket": "gretsa-ddc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893238391222:android:5f37751bb5e34161b65117",
+        "android_client_info": {
+          "package_name": "com.gretsa.studentAttendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6HWbR5NlHFmZVSf-5CGSUa8DUb6dYGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893238391222:android:e46f60f3dcec08ddb65117",
+        "android_client_info": {
+          "package_name": "com.gretsa.studentattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6HWbR5NlHFmZVSf-5CGSUa8DUb6dYGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893238391222:android:cb26343506a8979db65117",
+        "android_client_info": {
+          "package_name": "com.strathmore.fingerprintapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6HWbR5NlHFmZVSf-5CGSUa8DUb6dYGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893238391222-fl70h0rsts0m51lsi5pt4m017m1lsavt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
